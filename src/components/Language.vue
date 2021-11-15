@@ -1,8 +1,6 @@
 <template>
   <div>
-    <p>footer</p>
-    <p>created by ST and ATC</p>
-    <p>footer</p>
+    <p>language selection</p>
   </div>
 
 </template>

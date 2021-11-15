@@ -1,6 +1,6 @@
 <template>
   <div>
-    test
+    <p>Form Name Beer</p>
   </div>
 
 </template>
@@ -11,5 +11,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+  p{
+    color: white;
+  }
 </style>

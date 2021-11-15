@@ -1,8 +1,6 @@
 <template>
   <div>
-    <p>footer</p>
-    <p>created by ST and ATC</p>
-    <p>footer</p>
+    <p>Form Name Beer</p>
   </div>
 
 </template>
@@ -13,7 +11,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-p {
-  color:white
-}
+  p{
+    color: white;
+  }
 </style>
